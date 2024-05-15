@@ -1,0 +1,18 @@
+.box {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.Box-cover {
+    display: flex;
+    column-gap: 10px;
+    justify-content: space-between;
+}
+
+.sub-box {
+    background-color: rgb(231, 5, 5);
+    height: 200px;
+    width: 200px;
+}
